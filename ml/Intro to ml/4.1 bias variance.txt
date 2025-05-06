@@ -1,0 +1,5 @@
+if train data accuracy is high then low bias
+if train data accuracy is low then high bias
+
+if test data accuracy is low then high variance
+if test data accuracy is high then low variance 
